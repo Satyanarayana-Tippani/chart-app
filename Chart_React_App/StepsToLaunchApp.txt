@@ -2,6 +2,11 @@ softwares required
 =================
 1) Node js
 
+React plugins used
+==================
+1) react-checkbox-tree
+2) react-google-charts
+
 Steps:
 ========
 1) to this current path open terminal and execute command "npm install" will install node modules
