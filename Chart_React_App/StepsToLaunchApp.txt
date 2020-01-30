@@ -4,8 +4,8 @@ softwares required
 
 React plugins used
 ==================
-1) react-checkbox-tree
-2) react-google-charts
+1) react-checkbox-tree  (https://www.npmjs.com/package/react-checkbox-tree)
+2) react-google-charts  (https://www.npmjs.com/package/react-google-charts)
 
 Steps:
 ========
