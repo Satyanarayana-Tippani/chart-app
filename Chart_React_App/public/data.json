@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Electronics",
+        "id": "EC_100",
+        "items": [
+            {
+                "name": "Mobile",
+                "id": "MB_100",
+                "items": [
+                    {
+                        "name": "samsung",
+                        "id": "MB_SM_100",
+                        "sales": 100,
+                        "expense": 20,
+                        "profit": 40
+                    },
+                    {
+                        "name": "lg",
+                        "id": "MB_LG_100",
+                        "sales": 80,
+                        "expense": 40,
+                        "profit": 80
+                    },
+                    {
+                        "name": "nokia",
+                        "id": "MB_NK_100",
+                        "sales": 90,
+                        "expense": 50,
+                        "profit": 90
+                    },
+                    {
+                        "name": "mi",
+                        "id": "MB_MI_100",
+                        "sales": 80,
+                        "expense": 60,
+                        "profit": 70
+                    },
+                    {
+                        "name": "iphone",
+                        "id": "MB_IP_100",
+                        "sales": 100,
+                        "expense": 80,
+                        "profit": 80
+                    }
+                ]
+            },
+            {
+                "name": "Laptop",
+                "id": "LP_100",
+                "items": [
+                    {
+                        "name": "samsung",
+                        "id": "LP_SM_100",
+                        "sales": 20,
+                        "expense": 20,
+                        "profit": 40
+                    },
+                    {
+                        "name": "lg",
+                        "id": "LP_LG_100",
+                        "sales": 80,
+                        "expense": 40,
+                        "profit": 60
+                    },
+                    {
+                        "name": "lenovo",
+                        "id": "LP_LN_100",
+                        "sales": 90,
+                        "expense": 50,
+                        "profit": 90
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sports",
+        "id": "SP_100",
+        "items": [
+            {
+                "name": "Cricket",
+                "id": "CK_100",
+                "items": [
+                    {
+                        "name": "Bat",
+                        "id": "CK_BT_100",
+                        "sales": 30,
+                        "expense": 50,
+                        "profit": 70
+                    },
+                    {
+                        "name": "Ball",
+                        "id": "CK_BL_100",
+                        "sales": 50,
+                        "expense": 80,
+                        "profit": 70
+                    }
+                ]
+            },
+            {
+                "name": "Badminton",
+                "id": "BDM_100",
+                "items": [
+                    {
+                        "name": "Shuttle Bat",
+                        "id": "BDM_BT_100",
+                        "sales": 100,
+                        "expense": 20,
+                        "profit": 80
+                    },
+                    {
+                        "name": "Shuttle cock",
+                        "id": "BDM_SC_100",
+                        "sales": 200,
+                        "expense": 50,
+                        "profit": 200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Furniture",
+        "id": "FN_100",
+        "items": [
+            {
+                "name": "Sofa",
+                "id": "SF_100",
+                "items": [
+                    {
+                        "name": "Drexel",
+                        "id": "SF_DX_100",
+                        "sales": 80,
+                        "expense": 90,
+                        "profit": 40
+                    },
+                    {
+                        "name": "Baker",
+                        "id": "SF_BK_100",
+                        "sales": 60,
+                        "expense": 70,
+                        "profit": 90
+                    }
+                ]
+            },
+            {
+                "name": "Bed",
+                "id": "BD_100",
+                "items": [
+                    {
+                        "name": "Drexel",
+                        "id": "BD_DX_100",
+                        "sales": 50,
+                        "expense": 40,
+                        "profit": 60
+                    },
+                    {
+                        "name": "Baker",
+                        "id": "BD_BK_100",
+                        "sales": 70,
+                        "expense": 40,
+                        "profit": 20
+                    }
+                ]
+            }
+        ]
+    }
+]

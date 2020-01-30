@@ -1,0 +1,9 @@
+softwares required
+=================
+1) Node js
+
+Steps:
+========
+1) to this current path open terminal and execute command "npm install" will install node modules
+2) execute command "npm start"
+3) open browser to launch app "http://localhost:3000/"
